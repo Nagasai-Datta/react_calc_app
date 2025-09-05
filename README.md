@@ -1,5 +1,7 @@
 This React Calculator is a single-page app built using functional components and React hooks.
+
 	•	Components:
+ 
 	•	App.jsx: The main container that manages the calculator state.
 	•	Screen.jsx: Displays the current input or result.
 	•	Keypad.jsx: Contains all the buttons (numbers, operators, reset, delete).
