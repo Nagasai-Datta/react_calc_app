@@ -1,0 +1,15 @@
+.keypad {
+  display: grid;
+  grid-template-columns: repeat(4, 85px); /* 3 columns */
+  grid-auto-rows: 55px;                  /* row height */
+  gap: 15px;                             /* spacing between buttons */
+  justify-content: center;               /* center the grid horizontally */
+  align-items: center;                   /* center items vertically */
+  background-color:hsl(224, 36%, 15%) ;
+  padding: 20px;
+  border-radius: 10px; 
+  width:400px;   
+  margin-top:20px; 
+  height:37%;    
+    
+}

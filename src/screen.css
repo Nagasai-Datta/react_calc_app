@@ -1,0 +1,8 @@
+ .screen{
+    background-color:hsl(222, 33%, 10%) ;
+    border-radius: 10px; 
+  width:440px;
+  height:100px;
+  color:azure;
+  font-size: 3rem;
+ }
